@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry
+- 👋 Hi, I’m Hank
 - 👀 I’m interested in geospatial data analytics, natural language processing, financial data analytics
 - 🌱 I’m currently learning Specialized Data Visualization for financial due diligence (TTM completion, cartesian completion, multicutting)
 - 💞️ I’m looking to collaborate on financial data analytics
